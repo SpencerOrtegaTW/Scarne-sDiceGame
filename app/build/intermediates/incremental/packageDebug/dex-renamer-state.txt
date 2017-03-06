@@ -1,0 +1,7 @@
+#Sun Mar 05 18:51:21 PST 2017
+base.0=/Users/dpt1/Desktop/AndoridWithGoogle/ScarnesDice/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_5c539ca55905a93d962a8e2efffffbd85be56cf0
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/dpt1/Desktop/AndoridWithGoogle/ScarnesDice/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_bf16b34232039a008ba1158f3fa059bcd93ca96c/classes.dex
+base.1=/Users/dpt1/Desktop/AndoridWithGoogle/ScarnesDice/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_bf16b34232039a008ba1158f3fa059bcd93ca96c
+file.0=/Users/dpt1/Desktop/AndoridWithGoogle/ScarnesDice/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_5c539ca55905a93d962a8e2efffffbd85be56cf0/classes.dex

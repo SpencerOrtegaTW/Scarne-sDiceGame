@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="25"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="52025747353538"
+    token="3023229443428520353"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="1306" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="465" />
+    <task
+        name="verifier"
+        duration="37" />
+
+    <artifact
+        location="/Users/dpt1/Desktop/AndoridWithGoogle/ScarnesDice/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="52025747353538"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/dpt1/Desktop/AndoridWithGoogle/ScarnesDice/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
